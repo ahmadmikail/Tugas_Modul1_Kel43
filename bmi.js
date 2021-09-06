@@ -13,6 +13,6 @@
 		
 	}
 	else{
-		alert("Please enter something first!")
+		alert("Masukkan Tinggi dan Berat Badan!")
 	}
 }
